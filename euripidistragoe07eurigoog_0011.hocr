@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripidistragoe07eurigoog/euripidistragoe07eurigoog_0011.png"; bbox 0 0 2450 4272; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 513 1927 781 2056">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 513 1927 781 2056">
+     <span class='ocr_line' id='line_1_1' title="bbox 513 1927 775 2023; baseline 0.015 -35"><span class='ocrx_word' id='word_1_1' title='bbox 513 1935 541 1972; x_wconf 36' lang='grc' dir='ltr'>ἐἲ</span> <span class='ocrx_word' id='word_1_2' title='bbox 584 1941 677 1990; x_wconf 60' lang='lat' dir='ltr'>[mam</span> <span class='ocrx_word' id='word_1_3' title='bbox 700 1927 775 2023; x_wconf 35' lang='lat'>*313*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 617 2004 781 2056; baseline -0.012 0"><span class='ocrx_word' id='word_1_4' title='bbox 617 2009 644 2056; x_wconf 69' lang='lat' dir='ltr'>Of</span> <span class='ocrx_word' id='word_1_5' title='bbox 727 2029 729 2037; x_wconf 83' lang='lat'><em>·</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 760 2004 781 2033; x_wconf 51' lang='lat'>*¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 571 2050 771 2216">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 571 2050 771 2216">
+     <span class='ocr_line' id='line_1_3' title="bbox 571 2050 771 2216; baseline -0.005 -94"><span class='ocrx_word' id='word_1_7' title='bbox 571 2050 771 2216; x_wconf 47' lang='lat' dir='ltr'>emamus*</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 557 2139 699 2206">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 557 2139 699 2206">
+     <span class='ocr_line' id='line_1_4' title="bbox 557 2139 699 2206; baseline -0.028 -16"><span class='ocrx_word' id='word_1_8' title='bbox 557 2139 699 2206; x_wconf 65' lang='grc' dir='ltr'>ιιῑεκΑῑυΗε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1228 4272">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1228 4272">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1228 4272; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1228 4272; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
